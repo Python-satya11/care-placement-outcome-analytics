@@ -119,5 +119,5 @@ See [`data_dictionary.md`](data_dictionary.md) for full column definitions and d
 ## Author
 
 **Satyaranjan Jena**
-MCA
+ MCA
 [LinkedIn](https://www.linkedin.com/in/satyaranjan-jena09/)

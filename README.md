@@ -29,11 +29,11 @@ Without structured transition analytics, system bottlenecks remain hidden. This 
 
 **Month-over-Month Discharge Trend**
 
-![Month-over-month discharge trend](Month-over-month discharge .png)
+(Month-over-month discharge .png)
 
 **Backlog & Delay Identification**
 
-![Backlog and delay identification](Bscklog & Delay Identification.png)
+(Bscklog & Delay Identification.png)
 <!-- Add this screenshot to assets/backlog_delay_identification.png -->
 
 ## Streamlit Web Application

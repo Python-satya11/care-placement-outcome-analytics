@@ -99,7 +99,7 @@ care-transition-efficiency-dashboard/
 | Children in HHS Care | Active HHS care load |
 | Children discharged from HHS Care | Successful sponsor placements |
 
-See [`data_dictionary.md`](data_dictionary.md) for full column definitions and data-cleaning notes.
+See [`data_dictionary`](data_dictionary.md) for full column definitions and data-cleaning notes.
 
 ## Methodology
 
